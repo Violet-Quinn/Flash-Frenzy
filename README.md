@@ -1,4 +1,4 @@
-**Flash Frenzy**
+### Flash Frenzy ###
 
 **Flash Frenzy** is a bilingual flashcard application built with Python's `tkinter` library. It helps users learn and retain French and English vocabulary in a fun and interactive way. Users can test their language skills by flipping between French and English words, keeping track of learned words, and customizing their vocabulary list. The app saves unlearned words for later practice, ensuring a personalized and focused learning experience.
 
