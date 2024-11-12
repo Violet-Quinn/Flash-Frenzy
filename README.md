@@ -25,11 +25,11 @@ cd flash-frenzy
 
 Install Dependencies:
 
-- The project uses `tkinter` (included with Python), `pandas`, and `Pillow`.
-- Install `pandas` and `Pillow` by running:
+- The project uses `tkinter` (included with Python) and `pandas`.
+- Install `pandas` by running:
 
   ```bash
-  pip install pandas pillow
+  pip install pandas
   ```
 
 - Place `card_front.png`, `card_back.png`, `right.png`, and `wrong.png` in the `images` folder, and ensure `french_words.csv` is in the `data` folder.
